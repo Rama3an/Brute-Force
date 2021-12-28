@@ -3,4 +3,4 @@
 
 Запуск программы:
 
-node bruteforce.js S.txt T.txt
+node bruteForce.js S.txt T.txt
